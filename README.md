@@ -1,1 +1,1 @@
-# Java_Networking_Practice
+# BMI_Calculator
