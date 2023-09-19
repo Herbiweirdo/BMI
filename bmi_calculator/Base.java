@@ -1,3 +1,5 @@
+package bmi_calculator;
+
 class Base
 {
     private double bmIndex;

@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import bmi_calculator.Base;
+
 public class Test {
     public static void main(String[] args)
     {

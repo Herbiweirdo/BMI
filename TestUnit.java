@@ -1,5 +1,8 @@
 import org.junit.*;
 import org.junit.Test;
+
+import bmi_calculator.Base;
+
 import static org.junit.Assert.*;
 
 public class TestUnit 
